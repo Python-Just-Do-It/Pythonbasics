@@ -44,7 +44,7 @@ def threeSum(arr):
                                 if add == 0:
                                     
                                     uni.append(a)
-            first+=1
+            first += 1
             
     return uni
         
