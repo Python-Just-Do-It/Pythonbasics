@@ -24,7 +24,7 @@ if x_y and y_x pairs are not equal :
 
 case 4 :
 
-if there is 1 x_y and 1 y_x pair i.e x_y = 1 and y_X = 1:
+if there is 1 x_y and 1 y_x pair i.e x_y = 1 and y_x = 1:
     then 2 swaps are required to make string equal
 
 '''
